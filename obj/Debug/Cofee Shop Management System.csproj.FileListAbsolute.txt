@@ -1,0 +1,8 @@
+D:\2nd Semester\Week 5\Cofee Shop Management System\obj\Debug\Cofee Shop Management System.csproj.AssemblyReference.cache
+D:\2nd Semester\Week 5\Cofee Shop Management System\obj\Debug\Cofee Shop Management System.csproj.SuggestedBindingRedirects.cache
+D:\2nd Semester\Week 5\Cofee Shop Management System\obj\Debug\Cofee Shop Management System.csproj.CoreCompileInputs.cache
+D:\2nd Semester\Week 5\Cofee Shop Management System\bin\Debug\Cofee Shop Management System.exe.config
+D:\2nd Semester\Week 5\Cofee Shop Management System\bin\Debug\Cofee Shop Management System.exe
+D:\2nd Semester\Week 5\Cofee Shop Management System\bin\Debug\Cofee Shop Management System.pdb
+D:\2nd Semester\Week 5\Cofee Shop Management System\obj\Debug\Cofee Shop Management System.exe
+D:\2nd Semester\Week 5\Cofee Shop Management System\obj\Debug\Cofee Shop Management System.pdb
